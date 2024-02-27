@@ -1,0 +1,13 @@
+.text-color{
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+}
+
+body{
+    background-color: black;
+    font-size: 70px;
+    margin:100px 0;
+
+}
+
