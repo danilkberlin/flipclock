@@ -1,7 +1,8 @@
 .text-color{
-    font-size: 70px;
+    font-size: 150px;
     font-weight: 700;
     color: white;
+    padding: 150px 0;
 }
 
 body{
